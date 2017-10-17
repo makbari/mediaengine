@@ -1,0 +1,37 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+.custom{
+  background-color: #E5E5E5;
+}
+
+.dark {
+  background-color: #666666;
+}
+
+.headline{
+  font-size: 16px;
+  background-color: #E5E5E5;
+  padding: 10px;
+}
+.calendar {
+  th{
+    font-size: 13px;
+  }
+}
+.calendar_footer {
+  font-size: 13px;
+  color: #555555;
+}
+.smaller_font{
+  font-size: 12px;
+}
+.footer{
+  font-size: 12px;
+  color: #555555;
+}
+.small_font {
+  font-size: 13px;
+}
